@@ -23,10 +23,10 @@
 
 // ?Task-3
 // ?Funksiya number fahrenheit parameter qebul eden funskiya yaziriq. Celsiusa convert edib return etsin.
-function fahrenheitToCelsius(fahrenheit) {
-    let celsius = (5/9) * (fahrenheit - 32);
-    return celsius;
-}
 
-let celsiusValue = fahrenheitToCelsius(150);
-console.log(celsiusValue); 
+// const fahrenheitToCelsius=(fahrenheit)=> {
+//     return (5/9)*(fahrenheit-32)
+// }
+// console.log(fahrenheitToCelsius(150));
+
+
